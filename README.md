@@ -30,7 +30,7 @@ By constructing a **stochastic probability model** as baseline, we forward-deriv
 
 **Function gradient importance analysis** reveals nonlinear coupling between score difference gradients and momentum variations. We establish a probability transition model to quantify momentum propagation effects, proposing **5 tactical optimization strategies** encompassing psychological regulation and critical-point management.
 
-<img src="..\png\memo.png" alt="memo" style="zoom:30%;" />
+<img src=".\png\memo.png" alt="memo" style="zoom:30%;" />
 
 ---
 
